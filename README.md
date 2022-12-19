@@ -1,5 +1,17 @@
-# test-1
-helo 
-tao da o day
-tao da o day 1.0
-call me that way
+```cpp
+#incluce<iostream>
+int main()
+    {
+        cout<<"aduvjp"<<endl;
+        system("pause");
+        return 0;
+    }
+```
+```py
+
+import os
+def main():
+    print("aduvjppro-python\n")
+    os.system('pause')
+
+```
