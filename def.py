@@ -32,7 +32,9 @@ def TBM(T,L,H,V,A):
         print("Try it again!")
 dang_gia = TBM(float(input()))
 
-
+#code AI:
+#phan cong viec
+# n......
 
 
 
